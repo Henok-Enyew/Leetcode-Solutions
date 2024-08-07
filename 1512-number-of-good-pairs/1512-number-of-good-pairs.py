@@ -1,10 +1,13 @@
+import math
 class Solution:
     def numIdenticalPairs(self, nums: list[int]) -> int:
-        counter=0
-        length = len(nums)
-        for i in range(length):
-            for j in range(length):
-                print(i,j)
-                if(nums[i] == nums[j] and i < j):
-                    counter +=1
-        return counter
+        map = {}
+        result = 0
+        for x in nums:
+            if x in map.keys():
+                map[x] += 1
+            else:
+                map[x] = 1
+        for key,value in map.items():
+            result += math.floor(value*(value-1)/2)
+        return result
