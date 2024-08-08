@@ -1,8 +1,6 @@
 class Solution:
     def removeDuplicates(self, s: str) -> str:
-        arr = []
-        for i in range(len(s)):
-            arr.append(s[i])
+        arr = list(s)
         i = 1
         while(i < len(arr)):
             if( arr[i] == arr[i-1]):
