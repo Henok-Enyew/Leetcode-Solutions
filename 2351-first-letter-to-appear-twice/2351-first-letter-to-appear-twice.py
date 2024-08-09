@@ -1,11 +1,11 @@
 class Solution:
     def repeatedCharacter(self, s: str) -> str:
-        map = {}
-        for i in range(len(s)):
-            if s[i] in map.keys():
-                map[s[i]] = 2
-                return s[i]
+        store = []
+        for st in s:
+            if(st in store):
+                return st
             else:
-                map[s[i]] = 1 
+                store.append(st)
+       
 
         
