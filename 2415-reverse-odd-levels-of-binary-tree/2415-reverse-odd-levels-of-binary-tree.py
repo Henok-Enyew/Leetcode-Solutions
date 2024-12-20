@@ -4,7 +4,6 @@ class Solution:
             if not left or not right:
                 return
             
-            # Reverse values at odd levels
             if level % 2 == 1:
                 left.val, right.val = right.val, left.val
             
