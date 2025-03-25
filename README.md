@@ -20,4 +20,9 @@
 |  |
 | ------- |
 | [1020-longest-turbulent-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1020-longest-turbulent-subarray) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## String
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
