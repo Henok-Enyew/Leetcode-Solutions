@@ -1,0 +1,28 @@
+# Problem: Map of Highest Peak - https://leetcode.com/problems/map-of-highest-peak/description/
+
+from collections import deque
+from typing import List
+
+class Solution:
+    def highestPeak(self, isWater: List[List[int]]) -> List[List[int]]:
+        n, m =  len(isWater[0]), len(isWater)
+        height = [[-1] * n for _ in range(m)]
+        q = deque()
+        
+        for i in range(m):
+            for j in range(n):
+                if isWater[i][j] == 1:
+                    height[i][j] = 0
+                    q.append((i, j))
+        
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+        
+        while q:
+            x, y = q.popleft()
+            for dx, dy in directions:
+                nx, ny = x + dx, y + dy
+                if 0 <= nx < m and 0 <= ny < n and height[nx][ny] == -1:
+                    height[nx][ny] = height[x][y] + 1
+                    q.append((nx, ny))
+        
+        return height
