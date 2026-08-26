@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Design
 | Problem Name | Difficulty |
@@ -52,4 +53,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 <!---LeetCode Topics End-->
