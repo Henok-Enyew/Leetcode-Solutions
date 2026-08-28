@@ -3,7 +3,6 @@ class Solution:
         nums = sorted(nums)
         ans = []
         index = 0
-        print(nums)
         start = nums[0]
         end = nums[len(nums) - 1]
         for i in range(start, end+1):
