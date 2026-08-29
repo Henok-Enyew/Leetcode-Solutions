@@ -12,6 +12,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
