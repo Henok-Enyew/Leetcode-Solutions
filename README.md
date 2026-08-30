@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Design
 | Problem Name | Difficulty |
