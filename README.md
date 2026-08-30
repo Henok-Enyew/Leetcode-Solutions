@@ -37,6 +37,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3794-reverse-string-prefix](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1025-divisor-game/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3794-reverse-string-prefix](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 <!---LeetCode Topics End-->
