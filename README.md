@@ -13,6 +13,7 @@
 | [0890-find-and-replace-pattern](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3467-transform-array-by-parity](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -102,9 +103,18 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2211-count-collisions-on-a-road/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2211-count-collisions-on-a-road/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 <!---LeetCode Topics End-->
