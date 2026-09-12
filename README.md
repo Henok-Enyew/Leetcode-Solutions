@@ -127,4 +127,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
