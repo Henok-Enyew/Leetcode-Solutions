@@ -62,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,4 +162,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
