@@ -9,6 +9,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0553-optimal-division](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0553-optimal-division/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -117,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0942-di-string-match](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -174,10 +177,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
