@@ -76,6 +76,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0398-random-pick-index](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
 | [0504-base-7](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0553-optimal-division](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0553-optimal-division/) | Medium |
@@ -93,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0398-random-pick-index](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -198,4 +200,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
 <!---LeetCode Topics End-->
