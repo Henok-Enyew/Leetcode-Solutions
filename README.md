@@ -18,6 +18,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1020-longest-turbulent-subarray) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1603-running-sum-of-1d-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -131,12 +132,14 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0942-di-string-match](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2211-count-collisions-on-a-road/) | Medium |
 ## Simulation
@@ -154,6 +157,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -188,6 +192,7 @@
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
