@@ -14,6 +14,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0910-smallest-range-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0942-di-string-match](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -34,6 +35,7 @@
 | ------- | ------- |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0910-smallest-range-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -90,6 +92,7 @@
 | [0504-base-7](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0553-optimal-division](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0553-optimal-division/) | Medium |
+| [0910-smallest-range-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1025-divisor-game](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1753-maximum-score-from-removing-stones](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
@@ -157,6 +160,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0910-smallest-range-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0942-di-string-match](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
