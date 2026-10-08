@@ -50,6 +50,7 @@
 | [0474-ones-and-zeroes](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0553-optimal-division](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0553-optimal-division/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1025-divisor-game](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1025-divisor-game/) | Easy |
 ## Sliding Window
@@ -64,6 +65,7 @@
 | [0504-base-7](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -263,4 +265,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 <!---LeetCode Topics End-->
