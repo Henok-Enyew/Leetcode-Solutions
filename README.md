@@ -26,6 +26,7 @@
 | [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2551-put-marbles-in-bags](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [3430-count-days-without-meetings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3467-transform-array-by-parity](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -41,6 +42,7 @@
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2551-put-marbles-in-bags](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [3430-count-days-without-meetings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3467-transform-array-by-parity](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3731-find-missing-elements](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -174,6 +176,7 @@
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
+| [2551-put-marbles-in-bags](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2551-put-marbles-in-bags/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +227,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
+| [2551-put-marbles-in-bags](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2551-put-marbles-in-bags/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
