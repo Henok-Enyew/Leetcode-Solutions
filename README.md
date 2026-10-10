@@ -75,6 +75,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1023-camelcase-matching](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1405-longest-happy-string](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [2211-count-collisions-on-a-road](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -174,6 +175,7 @@
 | [0942-di-string-match](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
+| [1405-longest-happy-string](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [2551-put-marbles-in-bags](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2551-put-marbles-in-bags/) | Hard |
@@ -225,6 +227,7 @@
 | [0355-design-twitter](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [1405-longest-happy-string](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [2551-put-marbles-in-bags](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2551-put-marbles-in-bags/) | Hard |
