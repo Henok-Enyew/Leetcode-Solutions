@@ -21,6 +21,7 @@
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1023-camelcase-matching](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1603-running-sum-of-1d-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
@@ -91,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1603-running-sum-of-1d-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Math
@@ -104,6 +106,7 @@
 | [0910-smallest-range-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1025-divisor-game](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1025-divisor-game/) | Easy |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2396-strictly-palindromic-number](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -124,6 +127,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -193,6 +197,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
