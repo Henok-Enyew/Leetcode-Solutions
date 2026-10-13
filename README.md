@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0384-shuffle-an-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
@@ -230,6 +231,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1405-longest-happy-string](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
