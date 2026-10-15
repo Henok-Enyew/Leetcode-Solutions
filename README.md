@@ -20,6 +20,7 @@
 | [0942-di-string-match](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1023-camelcase-matching](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
@@ -43,6 +44,7 @@
 | [0910-smallest-range-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -176,6 +178,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2211-count-collisions-on-a-road/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -291,4 +294,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 <!---LeetCode Topics End-->
