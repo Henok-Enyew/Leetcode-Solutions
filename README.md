@@ -10,6 +10,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0384-shuffle-an-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0553-optimal-division](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0553-optimal-division/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -39,6 +40,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0910-smallest-range-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0910-smallest-range-ii/) | Medium |
@@ -72,6 +74,7 @@
 | [0474-ones-and-zeroes](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0504-base-7](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -129,6 +132,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0355-design-twitter](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0398-random-pick-index](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -160,6 +164,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0942-di-string-match](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
