@@ -274,6 +274,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [1023-camelcase-matching](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -303,4 +304,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 <!---LeetCode Topics End-->
