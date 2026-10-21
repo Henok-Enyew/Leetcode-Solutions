@@ -6,7 +6,7 @@ class Solution:
                 local_s = set()
                 while True:
                     if i in local_s: return True
-                    if i in visited: break          # credit to @crazyhyz, add this condition to avoid revisited
+                    if i in visited: break          
                     visited.add(i)
                     local_s.add(i)
                     prev, i = i, (i + nums[i]) % n
