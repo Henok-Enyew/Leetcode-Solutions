@@ -6,6 +6,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0384-shuffle-an-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0384-shuffle-an-array/) | Medium |
@@ -58,6 +59,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0553-optimal-division](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0553-optimal-division/) | Medium |
@@ -191,6 +193,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0910-smallest-range-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0942-di-string-match](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
