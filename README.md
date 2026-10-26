@@ -15,6 +15,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0553-optimal-division](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0553-optimal-division/) | Medium |
+| [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -45,6 +46,7 @@
 | ------- | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
+| [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0910-smallest-range-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -83,6 +85,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -142,6 +145,7 @@
 | [0398-random-pick-index](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
 | [0457-circular-array-loop](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0457-circular-array-loop/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
+| [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -321,8 +325,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0457-circular-array-loop](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0457-circular-array-loop/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 <!---LeetCode Topics End-->
