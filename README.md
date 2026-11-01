@@ -338,6 +338,7 @@
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +347,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -358,4 +360,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 <!---LeetCode Topics End-->
