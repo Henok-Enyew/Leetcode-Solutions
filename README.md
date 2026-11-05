@@ -44,6 +44,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +238,7 @@
 | [0190-reverse-bits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,4 +375,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 <!---LeetCode Topics End-->
