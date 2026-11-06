@@ -39,6 +39,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2551-put-marbles-in-bags](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3430-count-days-without-meetings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3467-transform-array-by-parity](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -63,6 +64,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2551-put-marbles-in-bags](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3430-count-days-without-meetings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3467-transform-array-by-parity](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3731-find-missing-elements](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -85,6 +87,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2747-count-zero-request-servers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +170,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3731-find-missing-elements](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
