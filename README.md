@@ -40,6 +40,7 @@
 | [2551-put-marbles-in-bags](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2551-put-marbles-in-bags/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 | [3430-count-days-without-meetings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3467-transform-array-by-parity](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -319,6 +320,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1023-camelcase-matching](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,4 +393,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 <!---LeetCode Topics End-->
