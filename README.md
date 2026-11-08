@@ -28,6 +28,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1023-camelcase-matching](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
@@ -152,6 +153,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
@@ -179,6 +181,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -351,6 +354,7 @@
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -360,11 +364,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
