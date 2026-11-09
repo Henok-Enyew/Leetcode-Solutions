@@ -28,6 +28,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1023-camelcase-matching](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
+| [1090-largest-values-from-labels](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -59,6 +60,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1090-largest-values-from-labels](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -169,6 +171,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1090-largest-values-from-labels](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -181,6 +184,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1090-largest-values-from-labels](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Brainteaser
@@ -230,6 +234,7 @@
 | [0942-di-string-match](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
+| [1090-largest-values-from-labels](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1405-longest-happy-string](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
