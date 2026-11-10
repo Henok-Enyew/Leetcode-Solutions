@@ -111,6 +111,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1405-longest-happy-string](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1419-minimum-number-of-frogs-croaking/) | Medium |
 | [1544-make-the-string-great](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -186,6 +187,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1419-minimum-number-of-frogs-croaking/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
