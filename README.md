@@ -15,6 +15,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0553-optimal-division](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0553-optimal-division/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -80,6 +81,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0553-optimal-division](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0553-optimal-division/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1025-divisor-game](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1025-divisor-game/) | Easy |
@@ -87,6 +89,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1020-longest-turbulent-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -285,6 +288,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -409,9 +413,11 @@
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 <!---LeetCode Topics End-->
