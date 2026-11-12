@@ -120,6 +120,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3029-minimum-time-to-revert-word-to-initial-state-i/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -334,6 +335,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1023-camelcase-matching](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3029-minimum-time-to-revert-word-to-initial-state-i/) | Medium |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
@@ -414,10 +416,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3029-minimum-time-to-revert-word-to-initial-state-i/) | Medium |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3029-minimum-time-to-revert-word-to-initial-state-i/) | Medium |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 <!---LeetCode Topics End-->
