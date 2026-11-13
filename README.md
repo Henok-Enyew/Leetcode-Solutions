@@ -47,6 +47,7 @@
 | [3430-count-days-without-meetings](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3467-transform-array-by-parity](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3731-find-missing-elements](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
@@ -86,6 +87,7 @@
 | [1020-longest-turbulent-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1025-divisor-game](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2747-count-zero-request-servers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +141,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -362,6 +366,7 @@
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +405,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
