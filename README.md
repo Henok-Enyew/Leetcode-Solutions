@@ -31,6 +31,7 @@
 | [1023-camelcase-matching](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1023-camelcase-matching/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
@@ -63,6 +64,7 @@
 | [0948-bag-of-tokens](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -195,6 +197,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1419-minimum-number-of-frogs-croaking/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Brainteaser
@@ -266,6 +269,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Linked List
