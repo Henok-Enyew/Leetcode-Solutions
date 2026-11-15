@@ -42,6 +42,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2551-put-marbles-in-bags](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2551-put-marbles-in-bags/) | Hard |
+| [2555-maximize-win-from-two-segments](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2555-maximize-win-from-two-segments/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
@@ -98,6 +99,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2555-maximize-win-from-two-segments](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2555-maximize-win-from-two-segments/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## String
@@ -301,6 +303,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2555-maximize-win-from-two-segments](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/2555-maximize-win-from-two-segments/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
