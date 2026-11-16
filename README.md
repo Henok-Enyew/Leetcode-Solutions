@@ -36,6 +36,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1603-running-sum-of-1d-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
@@ -68,6 +69,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
