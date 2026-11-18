@@ -57,6 +57,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
@@ -107,6 +108,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0504-base-7](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -179,6 +181,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0355-design-twitter](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0398-random-pick-index](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0457-circular-array-loop](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0457-circular-array-loop/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
@@ -196,6 +199,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -311,6 +315,7 @@
 | ------- | ------- |
 | [0355-design-twitter](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1405-longest-happy-string](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
@@ -439,4 +444,8 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3029-minimum-time-to-revert-word-to-initial-state-i/) | Medium |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
