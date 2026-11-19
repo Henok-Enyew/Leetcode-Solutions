@@ -12,6 +12,7 @@
 | [0384-shuffle-an-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0457-circular-array-loop](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0457-circular-array-loop/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0477-total-hamming-distance](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0477-total-hamming-distance/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0553-optimal-division](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0553-optimal-division/) | Medium |
@@ -156,6 +157,7 @@
 | ------- | ------- |
 | [0384-shuffle-an-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0398-random-pick-index](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0398-random-pick-index/) | Medium |
+| [0477-total-hamming-distance](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0477-total-hamming-distance/) | Medium |
 | [0504-base-7](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0553-optimal-division](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0553-optimal-division/) | Medium |
@@ -277,6 +279,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
+| [0477-total-hamming-distance](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0477-total-hamming-distance/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
