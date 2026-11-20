@@ -138,6 +138,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0355-design-twitter](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0384-shuffle-an-array](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -239,6 +240,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1544-make-the-string-great](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
@@ -303,6 +305,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -381,12 +384,14 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0721-accounts-merge](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -451,4 +456,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 <!---LeetCode Topics End-->
