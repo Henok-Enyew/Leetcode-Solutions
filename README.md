@@ -470,4 +470,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Henok-Enyew/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
